@@ -4,33 +4,33 @@
 
 ## 目录:  
 
-* <a href="#1">完整项目 </a> <br/>
-* <a href="#二、网络请求-">网络请求 </a> <br/>
-* <a href="#三、图片加载-">图片加载 </a> <br/>
-* <a href="#四．下拉刷新-">下拉刷新 </a> <br/>
-* <a href="#五．数据解析-">数据解析 </a> <br/>
-* <a href="#三、图片加载-">图片加载 </a> <br/>
-* <a href="#六．依赖注解-">依赖注解 </a> <br/>
-* <a href="#七．数据存储-">数据存储 </a> <br/>
-* <a href="#八．进度、加载等待、对话框-">进度、加载等待、对话框 </a> <br/>
-* <a href="#九．kotlin-">kotlin </a> <br/>
-* <a href="#十．导航 指示器-">导航 指示器 </a> <br/>
-* <a href="#十一．搜索框-">搜索框 </a> <br/>
-* <a href="#十二．工具类-">工具类 </a> <br/>
-* <a href="#十三．广告轮播-">广告轮播 </a> <br/>
-* <a href="#十四．欢迎、引导-">欢迎、引导 </a> <br/>
-* <a href="#十五．动画渲染-">动画渲染 </a> <br/>
-* <a href="#十六 . Android复习面试-">Android复习面试 </a> <br/>
-* <a href="#十七 . Android多媒体-">Android多媒体 </a> <br/>
-* <a href="#十八 . 选择器-">选择器 </a> <br/>
-* <a href="#十九 . UI扩展-">UI扩展 </a> <br/>
-* <a href="#二十 . 热修复-">热修复 </a> <br/>
-* <a href="#二十一 . 科学上网-">科学上网 </a> <br/>
-* <a href="#二十二 . 二维码-">二维码 </a> <br/>
-* <a href="#二十四．主题、状态栏-">主题、状态栏 </a> <br/>
-* <a href="#二十五．其它-">其它 </a> <br/>
-* <a href="#二十六．html+css+js-">html+css+js </a> <br/>
-* <a href="#二十七．小程序-">小程序 </a> <br/>
+* <a href="#1">1.完整项目 </a> <br/>
+* <a href="#2">2.网络请求 </a> <br/>
+* <a href="#3">3.图片加载 </a> <br/>
+* <a href="#4">4.下拉刷新 </a> <br/>
+* <a href="#5">5.数据解析 </a> <br/>
+* <a href="#6">6.依赖注解 </a> <br/>
+* <a href="#7">7.数据存储 </a> <br/>
+* <a href="#8">8.进度、加载等待、对话框 </a> <br/>
+* <a href="#9">9.kotlin </a> <br/>
+* <a href="#10">10.导航 指示器 </a> <br/>
+* <a href="#11">11.搜索框 </a> <br/>
+* <a href="#12">12.工具类 </a> <br/>
+* <a href="#13">13.广告轮播 </a> <br/>
+* <a href="#14">14.欢迎、引导 </a> <br/>
+* <a href="#15">15.动画渲染 </a> <br/>
+* <a href="#16">16.Android复习面试 </a> <br/>
+* <a href="#17">17.Android多媒体 </a> <br/>
+* <a href="#18">18.选择器 </a> <br/>
+* <a href="#19">19.UI扩展 </a> <br/>
+* <a href="#20">20.热修复 </a> <br/>
+* <a href="#21">21.科学上网 </a> <br/>
+* <a href="#22">22.二维码 </a> <br/>
+* <a href="#23">23.Base </a> <br/>
+* <a href="#24">24.主题、状态栏 </a> <br/>
+* <a href="#25">25.其它 </a> <br/>
+* <a href="#26">26.html+css+js </a> <br/>
+* <a href="#27">27.小程序 </a> <br/>
 
 
 
@@ -62,7 +62,7 @@
     * 基于Material Design和MVP的新闻客户端。
 
 
-## 二、网络请求 ：
+## <a name="2"></a>二、网络请求 ：
 
 * [xUtils3:](https://github.com/wyouflf/xUtils3)
     * androidorm, bitmap, http, view inject...  
@@ -78,7 +78,7 @@
     * Android实现Http标准协议框架，支持缓存（提供五种缓存模式）、代理、重定向，底层可动态切换OkHttp、URLConnection。
 
 
-## 三、图片加载 ：
+## <a name="3"></a>三、图片加载 ：
 
 * [glide:](https://github.com/bumptech/glide)
     * Animage loading and caching library for Android focused on smooth scrolling. 
@@ -96,7 +96,7 @@
 
 
 
-## 四．下拉刷新 ：
+## <a name="4"></a>四．下拉刷新 ：
 
 * [SmartRefreshLayout:](https://github.com/scwang90/SmartRefreshLayout)
     * 下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Footer。
@@ -122,17 +122,17 @@
     * A pull to refresh layout for android, the RecyclerRefreshLayout is based on the SwipeRefreshLayout. support all the views, highly customizable, code simplicity, etc
 
 
-## 五．数据解析 ：
+## <a name="5"></a>五．数据解析 ：
 
 * [fastjson:](https://github.com/alibaba/fastjson)
     * A fast JSON parser/generator for Java
 
-## 六．依赖注解 ：
+## <a name="6"></a>六．依赖注解 ：
 
 * [butterknife:](https://github.com/JakeWharton/butterknife)
     * Bind Android views and callbacks to fields and methods. 
 
-## 七．数据存储 ：
+## <a name="7"></a>七．数据存储 ：
 
 * [greenDAO:](https://github.com/greenrobot/greenDAO)
     * greenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases.  
@@ -142,7 +142,7 @@
     * Afinal是一个android的ioc，orm框架，内置了四大模块功能：FinalAcitivity,FinalBitmap,FinalDb,FinalHttp。通过finalActivity，我们可以通过注解的方式进行绑定ui和事件。通过finalBitmap，我们可以方便的加载bitmap图片，而无需考虑oom等问题。通过finalDB模块，我们一行代码就可以对android的sqlite数据库进行增删改查。通过FinalHttp模块，我们可以以ajax形式请求http数据。详情请通过以下网址查看。  
   
 
-## 八．进度、加载等待、对话框 ：
+## <a name="8"></a>八．进度、加载等待、对话框 ：
 
 * [BubbleSeekBar:](https://github.com/woxingxiao/BubbleSeekBar)
     * A beautiful Android custom seekbar, which has a bubble view with progress appearing upon when seeking. 自定义SeekBar，进度变化更以可视化气泡样式呈现 
@@ -175,13 +175,13 @@
 
 
 
-## 九．kotlin ：
+## <a name="9"></a>九．kotlin ：
 
 * [kotlin:](https://github.com/JetBrains/kotlin)
     * The Kotlin Programming Language
 
 
-## 十．导航 指示器 ：
+## <a name="10"></a>十．导航 指示器 ：
 
 * [ahbottomnavigation:](https://github.com/aurelhubert/ahbottomnavigation)
     * A library to reproduce the behavior of the Bottom Navigation guidelines from Material Design.
@@ -196,7 +196,7 @@
 * [FlycoTabLayout:](https://github.com/H07000223/FlycoTabLayout)
     * An Android TabLayout Lib
 
-## 十一．搜索框 ：
+## <a name="11"></a>十一．搜索框 ：
 
 * [PersistentSearch:](https://github.com/KieronQuinn/PersistentSearch)
     * A clone of the Google Now/Maps/Play persistent search bar
@@ -211,7 +211,7 @@
 
 
 
-## 十二．工具类 ：
+## <a name="12"></a>十二．工具类 ：
 
 * [AndroidHttpCapture:](https://github.com/JZ-Darkal/AndroidHttpCapture)
     * AndroidHttpCapture网络诊断工具 是一款Android手机抓包软件 主要功能包括：手机端抓包、PING/DNS/TraceRoute诊断、抓包HAR数据上传分享。你也可以看成是Android版的"Fiddler" \(^o^)/~
@@ -239,7 +239,7 @@
     * 基于RxJava打造的下载工具, 支持多线程下载和断点续传,使用Kotlin编写
 
 
-## 十三．广告轮播：
+## <a name="13"></a>十三．广告轮播：
 
 * [AndroidImageSlider:](https://github.com/daimajia/AndroidImageSlider)
     * An amazing and convenient Android image slider.
@@ -247,7 +247,7 @@
     * Android广告图片轮播控件，支持无限循环和多种主题，可以灵活设置轮播样式、动画、轮播和切换时间、位置、图片加载框架等！
 
 
-## 十四．欢迎、引导 ：
+## <a name="14"></a>十四．欢迎、引导 ：
 
 * [XhsWelcomeAnim:](https://github.com/w446108264/XhsWelcomeAnim)
     * 小红书欢迎引导第二版
@@ -263,7 +263,7 @@
     * 最最轻量级的新手引导库，能够快速为任何一个View创建一个遮罩层，支持单个页面，多个引导提示，支持为高亮区域设置不同的图形，支持引导动画，方便扩展,良好支持fragment
 
 
-## 十五．动画渲染 ：
+## <a name="15"></a>十五．动画渲染 ：
 
 * [android-activityAnim:](https://github.com/yipianfengye/android-activityAnim)
     * 五种实现activity动画切换的方式
@@ -281,7 +281,7 @@
     * FloatingView can make the target view floating above the anchor view with cool animation
 
 
-## 十六 . Android复习面试 ：
+## <a name="16"></a>十六 . Android复习面试 ：
 
 * [android-interview-questions:](https://github.com/MindorksOpenSource/android-interview-questions)
     * Your Cheat Sheet For Android Interview - Android Interview Questions
@@ -305,7 +305,7 @@
 
 
 
-## 十七 . Android多媒体 ：
+## <a name="17"></a>十七 . Android多媒体 ：
 
 * [VCameraDemo:](https://github.com/motianhuo/VCameraDemo)
     * 微信小视频+秒拍,FFmpeg库封装
@@ -336,7 +336,7 @@
 
 
 
-## 十八 . 选择器 ：
+## <a name="18"></a>十八 . 选择器 ：
 
 * [MaterialDateTimePicker:](https://github.com/wdullaer/MaterialDateTimePicker)
     * Pick a date or time on Android in style
@@ -361,7 +361,7 @@
 
 
 
-## 十九 . UI扩展 ：
+## <a name="19"></a>十九 . UI扩展 ：
 * [AndroidSwipeLayout:](https://github.com/daimajia/AndroidSwipeLayout)
     * The Most Powerful Swipe Layout!
 * [BezierMaker:](https://github.com/venshine/BezierMaker)
@@ -442,19 +442,19 @@
 
 
 
-## 二十 . 热修复 ：
+## <a name="20"></a>二十 . 热修复 ：
 * [tinker:](https://github.com/Tencent/tinker)
     * Tinker is a hot-fix solution library for Android, it supports dex, library and resources update without reinstall apk.
 
 
-## 二十一 . 科学上网 ：
+## <a name="21"></a>二十一 . 科学上网 ：
 * [hosts:](https://github.com/googlehosts/hosts)
     * 镜像
 
 
 
 
-## 二十二 . 二维码 ：
+## <a name="22"></a>二十二 . 二维码 ：
 * [zxing:](https://github.com/zxing/zxing)
     * ZXing ("Zebra Crossing") barcode scanning library for Java, Android
 * [BGAQRCode-Android:](https://github.com/bingoogolapple/BGAQRCode-Android)
@@ -467,7 +467,7 @@
 
 
 
-## 二十三．Base ：
+## <a name="23"></a>二十三．Base ：
 
 * [baseAdapter:](https://github.com/hongyangAndroid/baseAdapter)
     * Android 万能的Adapter for ListView,RecyclerView,GridView等，支持多种Item类型的情况。
@@ -480,7 +480,7 @@
 
 
 
-## 二十四．主题、状态栏 ：
+## <a name="24"></a>二十四．主题、状态栏 ：
 * [Colorful:](https://github.com/hehonghui/Colorful)
     * 基于Theme的Android动态换肤库，无需重启Activity、无需自定义View，方便的实现日间、夜间模式。
 * [Android-Skin-Loader:](https://github.com/fengjundev/Android-Skin-Loader)
@@ -492,7 +492,7 @@
 
 
 
-## 二十五．其它 ：
+## <a name="25"></a>二十五．其它 ：
 * [my-git:](https://github.com/xirong/my-git)
     * 有关 git 的学习资料
 * [ILOVEYOU:](https://github.com/androidmalin/ILOVEYOU)
@@ -522,7 +522,7 @@
 
 
 
-## 二十六．html+css+js ：
+## <a name="26"></a>二十六．html+css+js ：
 * [linux-command:](https://github.com/jaywcjlove/linux-command)
     * Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。
 * [BGAIssueBlog:](https://github.com/bingoogolapple/BGAIssueBlog)
@@ -572,7 +572,7 @@
 
 
 
-## 二十七．小程序 ：
+## <a name="27"></a>二十七．小程序 ：
 
 * [小程序官方文档:](https://mp.weixin.qq.com/debug/wxadoc/introduction/index.html?t=2018313)
     * 微信小程序开发离不了官方文档。
