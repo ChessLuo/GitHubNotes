@@ -1,6 +1,43 @@
 ### 我经常都会浏览一些GitHub开源库，看见觉得还可以的或者想研究下的，都会先star，随着star越来越多，真的有点难找，所以收集一下，方便下次快速查阅；呃，就这样！
   ---
 
+
+## 目录:  
+
+* <a href="#一、完整项目：-">完整项目 </a> <br/>
+* <a href="#二、网络请求：-">网络请求 </a> <br/>
+* <a href="#三、图片加载：-">图片加载 </a> <br/>
+* <a href="#四．下拉刷新：-">下拉刷新 </a> <br/>
+* <a href="#五．数据解析：-">数据解析 </a> <br/>
+* <a href="#三、图片加载：-">图片加载 </a> <br/>
+* <a href="#六．依赖注解：-">依赖注解 </a> <br/>
+* <a href="#七．数据存储：-">数据存储 </a> <br/>
+* <a href="#八．进度、加载等待、对话框：-">进度、加载等待、对话框 </a> <br/>
+* <a href="#九．kotlin：-">kotlin </a> <br/>
+* <a href="#十．导航 指示器：-">导航 指示器 </a> <br/>
+* <a href="#十一．搜索框：-">搜索框 </a> <br/>
+* <a href="#十二．工具类：-">工具类 </a> <br/>
+* <a href="#十三．广告轮播：-">广告轮播 </a> <br/>
+* <a href="#十四．欢迎、引导：-">欢迎、引导 </a> <br/>
+* <a href="#十五．动画渲染：-">动画渲染 </a> <br/>
+* <a href="#十六 . Android复习面试：-">Android复习面试 </a> <br/>
+* <a href="#十七 . Android多媒体：-">Android多媒体 </a> <br/>
+* <a href="#十八 . 选择器：-">选择器 </a> <br/>
+* <a href="#十九 . UI扩展：-">UI扩展 </a> <br/>
+* <a href="#二十 . 热修复：-">热修复 </a> <br/>
+* <a href="#二十一 . 科学上网：-">科学上网 </a> <br/>
+* <a href="#二十二 . 二维码：-">二维码 </a> <br/>
+* <a href="#二十四．主题、状态栏：-">主题、状态栏 </a> <br/>
+* <a href="#二十五．其它：-">其它 </a> <br/>
+* <a href="#二十六．html+css+js：-">html+css+js </a> <br/>
+* <a href="#二十七．小程序：-">小程序 </a> <br/>
+
+
+
+
+
+
+
 ## 一、完整项目：
 
 * [Meizhi:](https://github.com/drakeet/Meizhi)
@@ -539,6 +576,8 @@
 
 * [小程序官方文档:](https://mp.weixin.qq.com/debug/wxadoc/introduction/index.html?t=2018313)
     * 微信小程序开发离不了官方文档。
+* [小程序官方开发文档:](https://mp.weixin.qq.com/debug/wxadoc/dev/index.html?t=20171117)
+    * 微信小程序开发离不了官方开发文档。
 * [wepy:](https://github.com/Tencent/wepy)
     * 微信小程序组件化开发框架
 * [awesome-wechat-weapp:](https://github.com/justjavac/awesome-wechat-weapp)
