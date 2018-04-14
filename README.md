@@ -299,7 +299,8 @@
     * some code tips in android 
 * [AndroidSdkSourceAnalysis:](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis)
     * android sdk 源码解析——旨在帮助Android开发者更好的学习Android！
-
+* [android_interview:](https://github.com/LRH1993/android_interview)
+    * ==Android校招面试指南==
 
 
 
