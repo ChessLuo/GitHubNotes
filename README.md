@@ -31,6 +31,8 @@
 * <a href=".\typeItem\（25）其它.md">25.其它 </a> <br/>
 * <a href=".\typeItem\（26）html+css+js.md">26.html+css+js </a> <br/>
 * <a href=".\typeItem\（27）小程序.md">27.小程序 </a> <br/>
+* <a href=".\typeItem\（28）蓝牙.md">28.蓝牙模块 </a> <br/>
+
 
 
 
