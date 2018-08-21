@@ -45,4 +45,8 @@
     * 简单易用，轻量快捷，为移动端服务的前端框架
 * [SUI-Mobile:](https://github.com/sdc-alibaba/SUI-Mobile)
     * SUI Mobile (MSUI)是由阿里巴巴国际UED前端出品的移动端UI库，轻量精美 
+* [EasyUI](http://www.jeasyui.net/)
+* [DCloud -HBuilder、5+、mui、流应用、快应用开发工具](http://www.dcloud.io/index.html)
+* [DCloud开源项目集锦](https://github.com/dcloudio/casecode)
+
 
