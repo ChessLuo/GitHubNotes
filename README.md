@@ -24,7 +24,7 @@
 * <a href=".\typeItem\（18）选择器.md">18.选择器 </a> <br/>
 * <a href=".\typeItem\（19）UI扩展.md">19.UI扩展 </a> <br/>
 * <a href=".\typeItem\（20）热修复.md">20.热修复 </a> <br/>
-* <a href="#21">21.科学上网 </a> <br/>
+* <a href=".\typeItem\（21）科学上网.md">（21）科学上网 </a> <br/>
 * <a href=".\typeItem\（22）二维码.md">22.二维码 </a> <br/>
 * <a href=".\typeItem\（23）Base.md">23.Base </a> <br/>
 * <a href=".\typeItem\（24）主题、状态栏.md">24.主题、状态栏 </a> <br/>
@@ -34,10 +34,3 @@
 * <a href=".\typeItem\（28）蓝牙.md">28.蓝牙模块 </a> <br/>
 * <a href=".\typeItem\（29）Android架构.md">29.Android架构 </a> <br/>
 * <a href=".\typeItem\（30）动态化.md">30.动态化 </a> <br/>
-
-
-
-
-## <a name="21"></a>21. 科学上网 ：
-* [hosts:](https://github.com/googlehosts/hosts)
-    * 镜像
