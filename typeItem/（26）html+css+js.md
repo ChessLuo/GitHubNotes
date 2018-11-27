@@ -48,5 +48,6 @@
 * [EasyUI](http://www.jeasyui.net/)
 * [DCloud -HBuilder、5+、mui、流应用、快应用开发工具](http://www.dcloud.io/index.html)
 * [DCloud开源项目集锦](https://github.com/dcloudio/casecode)
+* [layui](https://github.com/sentsin/layui/)
 
 

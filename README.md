@@ -23,8 +23,8 @@
 * <a href=".\typeItem\（17）Android多媒体.md">17.Android多媒体 </a> <br/>
 * <a href=".\typeItem\（18）选择器.md">18.选择器 </a> <br/>
 * <a href=".\typeItem\（19）UI扩展.md">19.UI扩展 </a> <br/>
-* <a href=".\typeItem\（20）热修复.md">20.热修复 </a> <br/>
-* <a href=".\typeItem\（21）科学上网.md">（21）科学上网 </a> <br/>
+* <a href=".\typeItem\（20）热修复、插件化.md">20.热修复、插件化 </a> <br/>
+* <a href=".\typeItem\（21）科学上网.md">21.科学上网 </a> <br/>
 * <a href=".\typeItem\（22）二维码.md">22.二维码 </a> <br/>
 * <a href=".\typeItem\（23）Base.md">23.Base </a> <br/>
 * <a href=".\typeItem\（24）主题、状态栏.md">24.主题、状态栏 </a> <br/>

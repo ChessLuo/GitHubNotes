@@ -11,3 +11,4 @@
 * [仿b站项目的kotlin版，大部分界面采用kotlin编程，由于本人水平有限，有些kotlin写法不规范，后期有时间会逐步完善，和 原项目一样采用rxjava2+okhttp+retrofit+mvp+dagger2](https://github.com/yoyiyi/bilisoleil-kotlin)
 * [基于Kotlin+MVP+Retrofit+RxJava+Glide 等架构实现短视频类APP小项目，UI简约，详细注释](https://github.com/git-xuhao/KotlinMvp)
 * [用Kotlin去提高生产力:汇总Kotlin相对于Java的优势，以及怎么用Kotlin去简洁、务实、高效、安全开发的Tips](https://github.com/heimashi/kotlin_tips)
+* [超完整的Android Kotlin 项目，功能丰富，适合学习和日常使用。](https://github.com/CarGuo/GSYGithubAppKotlin)
