@@ -34,3 +34,4 @@
 * <a href=".\typeItem\（28）蓝牙.md">28.蓝牙模块 </a> <br/>
 * <a href=".\typeItem\（29）Android架构.md">29.Android架构 </a> <br/>
 * <a href=".\typeItem\（30）跨平台.md">30.跨平台 </a> <br/>
+* <a href=".\typeItem\（31）插件化.md">31.插件化 </a> <br/>
