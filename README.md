@@ -33,4 +33,4 @@
 * <a href=".\typeItem\（27）小程序.md">27.小程序 </a> <br/>
 * <a href=".\typeItem\（28）蓝牙.md">28.蓝牙模块 </a> <br/>
 * <a href=".\typeItem\（29）Android架构.md">29.Android架构 </a> <br/>
-* <a href=".\typeItem\（30）动态化.md">30.动态化 </a> <br/>
+* <a href=".\typeItem\（30）跨平台.md">30.跨平台 </a> <br/>

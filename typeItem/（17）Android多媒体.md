@@ -25,4 +25,5 @@
     * A better Android VideoView with more Media Controller customization. 一个更好用的Android VideoView
 * [DanmakuFlameMaster:](https://github.com/Bilibili/DanmakuFlameMaster)
     * Android开源弹幕引擎·烈焰弹幕使 ～
-
+* [jjdxm_ijkplayer:](https://github.com/jjdxmashl/jjdxm_ijkplayer)
+    * 基于ijkplayer简单的UI界面 当前项目是基于ijkplayer项目进行的播放器界面UI封装。 是一个适用于 Android 的 RTMP 播放界面 SDK，可高度定制化和二次开发。特色是同时支持 H.264 软编／硬编和 AAC 软编／硬编。主要是支持RIMP、HLS、MP4、M4A等视频格式的播放。
